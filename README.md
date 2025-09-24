@@ -4,8 +4,8 @@
 - 🌱 Graduado em Bacharelado em Sistemas de Informação
 <div>
   <a href="https://github.com/DCaiena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cerry0101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerry0101&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DCaiena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCaiena&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br> 
